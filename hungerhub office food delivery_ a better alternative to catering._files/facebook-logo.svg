@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook_logo</title>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1302.000000, -76.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="social_icons" transform="translate(1302.000000, 76.000000)">
+                <g id="facebook_logo">
+                    <path d="M2.93202182,16 L2.90909091,8.72727273 L0,8.72727273 L0,5.81818182 L2.90909091,5.81818182 L2.90909091,4 C2.90909091,1.30080364 4.58059636,0 6.98846545,0 C8.14185818,0 9.13314182,0.0858727273 9.42202909,0.124254545 L9.42202909,2.94507636 L7.75204364,2.94583636 C6.44250909,2.94583636 6.18895273,3.56810909 6.18895273,4.48124727 L6.18895273,5.81818182 L10,5.81818182 L8.54545455,8.72727273 L6.18895273,8.72727273 L6.18895273,16 L2.93202182,16 Z" id="White_1_"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
